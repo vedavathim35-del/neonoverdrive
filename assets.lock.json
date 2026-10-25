@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "groups": {
+    "models": {
+      "name": "Models",
+      "order": 10
+    },
+    "share": {
+      "name": "Share",
+      "order": 20
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/models/neon-racer.glb": {
+      "path": "/manus-storage/game/sha256/ab08fad97a7e55399de62c87253cc9ee734a9f6527df4d1b1a1a8c58024f458b.glb",
+      "sha256": "sha256:ab08fad97a7e55399de62c87253cc9ee734a9f6527df4d1b1a1a8c58024f458b",
+      "size": 752064,
+      "assetType": "model",
+      "groupId": "models"
+    },
+    "assets/share/favicon.png": {
+      "path": "/manus-storage/game/sha256/3db4333a85e3c27436fd23ded30a5e9c6ed2f1f08b8e172bf5e65337b8f1b6fe.png",
+      "sha256": "sha256:3db4333a85e3c27436fd23ded30a5e9c6ed2f1f08b8e172bf5e65337b8f1b6fe",
+      "size": 2510,
+      "assetType": "image",
+      "groupId": "share"
+    }
+  }
+}
